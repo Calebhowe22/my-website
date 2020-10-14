@@ -11,7 +11,7 @@ export default {
     Home
   }
 }
-</script>
+</script> 
 
 <style>
 #app {
